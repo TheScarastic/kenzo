@@ -79,7 +79,7 @@ export LOCALVERSION="-Dominator™"
 
 #Dominator Kernel Details
 BASE_VER="Dominator"
-VER="-v1.5-$(date +"%Y-%m-%d"-%H%M)-"
+VER="-v2.5-$(date +"%Y-%m-%d"-%H%M)-"
 Dominator_VER="$BASE_VER$VER$TC"
 
 compile_kernel ()
